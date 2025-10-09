@@ -1,0 +1,17 @@
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\bin\Debug\MVC_Francisco_Quezada.exe.config
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\bin\Debug\MVC_Francisco_Quezada.exe
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\bin\Debug\MVC_Francisco_Quezada.pdb
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.csproj.AssemblyReference.cache
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.Properties.Resources.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.csproj.GenerateResource.cache
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.exe
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.pdb
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.Menu.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.View.ListarVehiculo.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.View.AdVehiculo.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.View.DetVehiculo.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.View.AplDesc.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.View.ConsEspeciales.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.View.FiltBusqueda.resources
+C:\Users\Francisco Quezada\Downloads\Prog_Basededatos\MVC_Francisco_Quezada\MVC_Francisco_Quezada\obj\Debug\MVC_Francisco_Quezada.View.RegVenta.resources
